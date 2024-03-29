@@ -1,0 +1,52 @@
+
+ html,body{
+    margin: 0;
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    height: 100%;
+    letter-spacing: 0.05em;
+
+}
+.pimg{
+    
+    background-image:url(img/img1.png);
+    min-height: 100%;
+   
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    position: relative;
+    background-attachment: fixed;
+
+}
+.pimg2{
+    background-image:url(img/wp2599602.jpg);
+    min-height: 600px;
+    
+}
+.pimg3{
+    background-image:url(img/th.jpg);
+    min-height: 600px;
+}
+.textbg{
+    background-color: rgb(41, 40, 40);
+    padding: 15px;
+    color: rgb(212, 221, 229);
+}
+.ptext{
+    position: absolute;
+    top:50%;
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    color: black;
+    letter-spacing: 0.2rem;
+}
+.sec1{
+    color: rgb(212, 221, 229);
+    background-color: rgb(57, 56, 56);
+    padding: 50px;
+    position: relative;
+    text-align: center;
+}
